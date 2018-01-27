@@ -1,0 +1,87 @@
+body{
+	width: 100%;	
+	height: 13.34rem;
+	background-color: #eff0f0;
+}
+.header{
+	width: 100%;
+	height: .88rem;
+	background-color: #e7393b;
+	padding: 0 .24rem;
+	
+}
+.meishi{
+	width: 0.8rem;
+	height: 0.3rem;
+	font-size: 0.4rem;
+	color: #fff;
+	line-height: .88rem;
+	margin: 0 auto;
+	font-weight: 400;
+	/* margin-left: 3.0506rem; */
+	text-align:center;
+}
+.fenxiang{
+	width: 0.43rem;
+	height: 0.37rem;
+	float: right;
+}
+.neirong{
+	width: 7.09rem;
+	height: 2.11rem;
+	background-color: #fff;
+	border-radius:0.2rem;
+	border-bottom: 0.03rem solid #e73f47;
+	margin: 0 auto;
+	margin-top: 0.25rem;
+}
+.meishi-photo{
+	width: 2.08rem;
+	height: 1.73rem;
+	margin-top: 0.16rem;
+	margin-left: 0.20rem;
+	float: left;
+
+}
+.meishi-photo img{
+	width: 2.08rem;
+	height: 1.73rem;
+}
+.meishi-you{
+	width: 4.81rem;
+	height: 1.73rem;
+	background-color: #fff;
+	margin-top: 0.16rem;
+	float: right;
+	padding:0.1rem 0.2rem;
+}
+.diyihang{
+	font-size: 0.3rem;
+	margin-bottom: 0.05rem;
+}
+.jiage{
+	font-size: 0.18rem;
+	color: #c93d3f;
+	margin-bottom: 0.05rem;
+}
+.disanhang{
+	width: 1.03rem;
+	height: 0.38rem;
+	border: 0.01rem solid #c93d3f;
+	border-radius:0.1rem;
+	float: left;
+	margin-right: 0.09rem;
+	margin-bottom: 0.05rem;
+}
+.disanhang-wenzi{
+	font-size: 0.23rem;
+	color: #c93d3f;
+	text-align: center;
+	font-weight: 400;
+}
+.disihang{
+	font-size: 0.25rem;
+	color: #ada6a2;
+	float:left; 
+	font-weight: 500;
+}

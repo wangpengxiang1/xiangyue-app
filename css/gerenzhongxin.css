@@ -1,0 +1,148 @@
+body{
+	width: 100%;	
+	height: 13.34rem;
+	background-color: #eff0f0;
+}
+.touxang{
+	width: 100%;
+	height: 3.89rem;
+	margin-bottom: 0.22rem;
+}
+.touxiang-photo{
+	width: 100%;
+	height: 3.89rem;
+}
+.anniu{
+	width: 100%;
+	height: 1.52rem;
+	/* background-color: yellowgreen; */
+	padding: 0 0.24rem;
+	margin-bottom: 0.3rem;
+	
+}
+.anniu-item{
+	width: 1.755rem;
+	height: 1.49rem;
+	/* background: yellow; */
+	padding-top: 0.35rem;
+	float: left;
+}
+.anniu-item1{
+	width: 1.745rem;
+	height: 0.7rem;
+	/* background: red; */
+}
+.shuzi0{
+	text-align: center;
+	font-size: 0.14rem;
+	font-weight: 400;
+	line-height: 0.7rem;
+	border-right: 0.01rem solid #766d67;
+}
+.wodetiezi{
+	font-size: 0.22rem;
+	text-align: center;
+	color: #766d67;
+}
+.shuzi0-1{
+	text-align: center;
+	font-size: 0.14rem;
+	font-weight: 400;
+	line-height: 0.7rem;
+}
+.anniu-item2{
+	width: 1.755rem;
+	height: 1.49rem;
+	/* background: yellow; */
+	/* padding-top: 0.35rem; */
+	float: left;
+}
+.xinzeng{
+	font-size: 0.22rem;
+	margin-bottom: 0.05rem;
+	text-align: center;
+	font-weight: 400;
+	color: #766d67;
+}
+.liebiao{
+	width: 100%;
+	height: 0.75rem;
+	background-color: #fff;
+	padding: 0 0.24rem;
+	border-bottom: 0.01rem solid #e3e2e1;
+}
+.liebiao-wenzileft{
+	font-size: 0.23rem;
+	line-height: 0.75rem;
+	float: left;
+	font-weight: 400;
+	margin-left: 0.55rem;
+	color: #7c736c;
+}
+.liebiao-youjiantou{
+	width: 0.13rem;
+	height: 0.22rem;
+	float: right;
+	margin-top: 0.265rem;
+}
+.liebiao1{
+	width: 100%;
+	height: 0.75rem;
+	background-color: #fff;
+	padding: 0 0.24rem;
+	border-bottom: 0.01rem solid #e3e2e1;
+	margin-bottom: 0.3rem;
+}
+.liebiao-wenziright{
+	font-size: 0.23rem;
+	line-height: 0.75rem;
+	float: left;
+	font-weight: 400;
+	margin-left: 4.3rem;
+	color: #7c736c;
+}
+.liebiao-wenziright2{
+	font-size: 0.23rem;
+	line-height: 0.75rem;
+	float: left;
+	font-weight: 400;
+	margin-left: 3.5rem;
+	color: #7c736c;
+}
+.tab{
+	width: 100%;
+	height: 1.2rem;
+	background-color: #fff;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	bottom: 0;
+	position:fixed;
+}
+.tab-item{
+	width: 1.50rem;
+	height: 1.2rem;
+	/* background-color: blue; */
+	float: left;
+	
+}
+.tab-photo{
+	width: 0.52rem;
+	height: 0.52rem;
+	margin-top: 0.15rem;
+	margin-left: 0.49rem;
+}
+
+.tab-photo2{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-top: 0.2rem;
+	margin-left: 0.35rem;
+}
+.tab-wenzi{
+	font-size: 0.21rem;
+	text-align: center;
+	color: #9c9893;
+	z-index: 999;   /* 图层顺序最高 */
+}

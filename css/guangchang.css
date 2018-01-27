@@ -1,0 +1,191 @@
+body{
+	width: 100%;	
+	height: 13.34rem;
+	background-color: #eff0f0;
+	position:relative;
+}
+.header{
+	width: 100%;
+	height: .88rem;
+	background-color: #e8383c;
+	padding: 0 .24rem;
+	border-bottom: 0.01rem solid #c3bcb5;
+	position:absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: auto;
+	position:fixed;
+	z-index: 999;
+}
+.guangchang{
+	width: 0.8rem;
+	height: 0.3rem;
+	font-size: 0.4rem;
+	color: #fff;
+	line-height: .88rem;
+	margin: 0 auto;
+	font-weight: 400;
+	/* margin-left: 3.0506rem; */
+	text-align: center;
+}
+.zuixinhuodong{
+	width: 100%;
+	height: 0.35rem;
+	padding: 0 0.24rem;
+	/* background-color: yellowgreen; */
+	margin-top:1rem;
+	margin-bottom: 0.16rem;
+}
+.huodong-shuxian{
+	width: 0.02rem;
+	height: 0.31rem;
+	float: left;
+	margin-top: 0.02rem;
+}
+.zuixnhuodong-zuo{
+	font-size: 0.26rem;
+	margin-left: 0.09rem;
+	font-weight: 300;
+	float: left;
+}
+.youjiantou{
+	width: 0.23rem;
+	height: 0.27rem;
+	float: right;
+	margin-top: 0.04rem;
+}
+.gengduo{
+	font-size: 0.26rem;
+	margin-left: 5rem;
+	float: left;
+	font-weight: 300;
+}
+.neirong{
+	width: 7.29rem;
+	height: 5.40rem;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 0.15rem;
+	border-radius:0.1rem;
+}
+
+.neirong-photo1{
+	width: 6.99rem;
+	height: 2.54rem;
+	/* background-color: #cccdcc; */
+}
+.meirong-photo{
+	width: 6.99rem;
+	height: 2.54rem;
+}
+.xianshanghuodong{
+	width: 1.25rem;
+	height: 0.42rem;
+}
+.neirong-photo2{
+	width: 6.99rem;
+	height: 0.48rem;
+	margin-bottom: 0.18rem;
+}
+.jinxingzhong-box{
+	width: 1rem;
+	height: 0.43rem;
+	border-radius:0.1rem;
+	background-color: #e94e49;
+	float: left;
+	margin-right: 0.16rem;
+	
+}
+.jinxingzhong-wenzi{
+	font-size: 0.24rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.43rem;
+	font-weight: 200;
+}
+.wenzi1{
+	font-size: 0.28rem;
+	font-weight: 600;
+}
+.shijian-box{
+	width: 6.99rem;
+	height: 0.30rem;
+	/* background-color: pink; */
+	margin-top: 0.34rem;
+}
+.shijian{
+	width: 0.25rem;
+	height: 0.25rem;
+	float: left;
+	margin-top: 0.025rem;
+	margin-right: 0.09rem;
+}
+.shijian-wenzi{
+	font-size: 0.2rem;
+	line-height: 0.30rem;
+	font-weight: 400;
+	color: #e94e49;
+}
+.dinwei-box{
+	width: 6.99rem;
+	height: 0.30rem;
+	/* background-color: pink; */
+	margin-top: 0.24rem;
+}
+.dinwei{
+	width: 0.25rem;
+	height: 0.25rem;
+	float: left;
+	margin-top: 0.025rem;
+	margin-right: 0.09rem;
+}
+.dinwei-wenzi{
+	font-size: 0.28rem;
+	line-height: 0.30rem;
+	font-weight: 400;
+	float: left;
+}
+.dinwei-wenzi2{
+	font-size: 0.28rem;
+	line-height: 0.30rem;
+	font-weight: 400;
+	float: right;
+}
+.tab{
+	width: 100%;
+	height: 1.2rem;
+	background-color: #fff;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	bottom: 0;
+	position:fixed;
+}
+.tab-item{
+	width: 1.50rem;
+	height: 1.2rem;
+	/* background-color: blue; */
+	float: left;
+	
+}
+.tab-photo{
+	width: 0.52rem;
+	height: 0.52rem;
+	margin-top: 0.15rem;
+	margin-left: 0.49rem;
+}
+
+.tab-photo2{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-top: 0.2rem;
+	margin-left: 0.35rem;
+}
+.tab-wenzi{
+	font-size: 0.21rem;
+	text-align: center;
+	color: #9c9893;
+	z-index: 999;   /* 图层顺序最高 */
+}

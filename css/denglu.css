@@ -1,0 +1,103 @@
+.box{
+	width: 100%;
+	height: 13.34rem;
+	background-color: #f1f2f2;
+}
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #c93a3a;
+	padding: 0 .24rem;
+	
+}
+.head-title{
+	width: 1.6rem;
+	height: 0.3rem;
+	font-size: 0.4rem;
+	color: #fff;
+	line-height: .88rem;
+	margin: 0 auto;
+
+}
+.quxiao{
+	font-size: 0.2rem;
+	float: left;
+	width: 0.6rem;
+	height: 0.3rem;
+	/* margin: 0 auto; */
+	color: #fff;
+	font-weight: 200;
+	
+}
+.liebiao{
+	width: 100%;
+	height: 1.55rem;
+	padding: 0 .24rem;
+	margin-top: 0.28rem;
+	border-top: 0.01rem solid #f2f1f1;
+	background-color: #fff;
+	margin-bottom: 0.35rem;
+}
+.liebiao1{
+	height: 0.775rem;
+	width: 100%;
+	/* background-color: blue; */
+}
+input{
+	width: 6.16rem;
+	height: 0.765rem;
+	/* background-color: red; */
+	border: 0;
+	font-size: 0.23rem;
+	line-height: 0.765rem;
+}
+.liebiao1-1{
+	font-size: 0.23rem;
+	line-height: 0.775rem;
+	float: left;
+	color: #555352;
+	font-weight: 200;
+}
+.liebiao1-2{
+	width: 6.16rem;
+	height: 0.765rem;
+	/* background-color: red; */
+	margin-left: 0.86rem;
+} 
+.liebiao1-2 h1{
+	font-size: 0.23rem;
+	color: #c9c5c0;
+	line-height: 0.765rem;
+	font-weight: 200;
+	float: left;
+
+}
+.liebiao1-2 img{
+	width: .31rem;
+	height: .20rem;
+	float: right;
+	margin-top: 0.2825rem;
+}
+.anniu img{
+	width: 5.70rem;
+	height: 0.65rem;
+	margin-left: 0.90rem;
+	margin-bottom: 0.34rem;
+}
+.kuaisudenglu h1{
+	font-size: 0.22rem;
+	color: #dbd8d5;
+	display :flex;
+	flex-wrap: wrap;
+	justify-content:center;
+}
+.wenxintishi h1{
+	font-size: 0.23rem;
+	display :flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	color: #b7b5b1;
+	margin-left: 0.24rem;
+	margin-right: 0.24rem;
+	margin-top: 7.20rem;
+}
